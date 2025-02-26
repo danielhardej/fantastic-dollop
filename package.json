@@ -1,0 +1,14 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
